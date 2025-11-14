@@ -127,7 +127,7 @@ header.scrolled {
 
 .logo {
     font-size: 1.8rem;
-    font-weight: 800;
+    font-weight: 600;
     color: var(--primary);
     text-decoration: none;
     display: flex;
